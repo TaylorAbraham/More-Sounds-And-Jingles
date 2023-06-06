@@ -1,4 +1,4 @@
-package com.soundsandjingles;
+package com.taylorabraham;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
